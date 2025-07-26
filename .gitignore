@@ -1,0 +1,8 @@
+.venv1
+catboost_info
+.ipynb_checkpoints
+kaggle.json
+__pycache__
+*.pyc
+mlruns
+mlartifacts
